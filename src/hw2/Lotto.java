@@ -19,7 +19,7 @@ public class Lotto {
 
 		}
 		System.out.println();
-		System.out.println("阿有" + sum + "個號碼可以選擇");
+		System.out.println("阿文有" + sum + "個號碼可以選擇");
 
 	}
 }
