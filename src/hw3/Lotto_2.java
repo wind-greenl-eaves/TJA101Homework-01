@@ -29,7 +29,10 @@ public class Lotto_2 { // 定義 Lotto_2 類別
 			if (!containsDigit(i, s)) { // 呼叫 containsDigit 方法，檢查 i 是否包含阿文討厭的數字
 				numbers[count] = i; // 如果不包含，就存入 numbers 陣列
 				count++; // 可用數字數量加一
+<<<<<<< HEAD
 			
+=======
+>>>>>>> e4e0c30925a10e308f2aff8a0fefe9cbb4d70813
 				
 			}
 		}
